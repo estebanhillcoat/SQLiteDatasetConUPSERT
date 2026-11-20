@@ -4,6 +4,8 @@ tabla = miBase["Productos"]
 
 while True:
     opciones = input("""
+    
+    ***********************
     L - Listar
     A - Agregar 
     Q - Quitar por nombre
